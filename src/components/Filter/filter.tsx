@@ -1,4 +1,4 @@
-export const filter = () => {
+export const Filter = () => {
     return (
         <div>
         <h1>Filters</h1>
